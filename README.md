@@ -1,0 +1,2 @@
+# vidly-API-with-DjangoRestframework
+Django-Restframework Project (CRUD, auth) API. In this project you can register as a user and login, get a movie or list of movies, get a rental or list of rentals, get a customer or a list of customers, get movies in a genre. You can also create new genres, movies and rentals. Anyone can retrieve all genres or movies or authenticated users are allowed to make some changes to existing genres, or movies.
